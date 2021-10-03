@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/digitalclock/static/css/main.a7fb10e9.chunk.css",
-    "main.js": "/digitalclock/static/js/main.18832df6.chunk.js",
-    "main.js.map": "/digitalclock/static/js/main.18832df6.chunk.js.map",
+    "main.js": "/digitalclock/static/js/main.7105876c.chunk.js",
+    "main.js.map": "/digitalclock/static/js/main.7105876c.chunk.js.map",
     "runtime-main.js": "/digitalclock/static/js/runtime-main.6780b646.js",
     "runtime-main.js.map": "/digitalclock/static/js/runtime-main.6780b646.js.map",
     "static/js/2.bf95492d.chunk.js": "/digitalclock/static/js/2.bf95492d.chunk.js",
@@ -10,6 +10,8 @@
     "static/js/3.5477219c.chunk.js": "/digitalclock/static/js/3.5477219c.chunk.js",
     "static/js/3.5477219c.chunk.js.map": "/digitalclock/static/js/3.5477219c.chunk.js.map",
     "index.html": "/digitalclock/index.html",
+    "service-worker.js": "/digitalclock/service-worker.js",
+    "service-worker.js.map": "/digitalclock/service-worker.js.map",
     "static/css/main.a7fb10e9.chunk.css.map": "/digitalclock/static/css/main.a7fb10e9.chunk.css.map",
     "static/js/2.bf95492d.chunk.js.LICENSE.txt": "/digitalclock/static/js/2.bf95492d.chunk.js.LICENSE.txt"
   },
@@ -17,6 +19,6 @@
     "static/js/runtime-main.6780b646.js",
     "static/js/2.bf95492d.chunk.js",
     "static/css/main.a7fb10e9.chunk.css",
-    "static/js/main.18832df6.chunk.js"
+    "static/js/main.7105876c.chunk.js"
   ]
 }
